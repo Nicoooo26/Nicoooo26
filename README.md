@@ -1,3 +1,2 @@
-# Header
 
-![header](img/header.png)
+![header](img/header_.png)
