@@ -63,29 +63,7 @@
    
     <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white"></a>
  </p>
-<h3 id="graphic-designing">👉Graphic Designing</h3>
-<div class="google-auto-placed" style="width: 100%; height: auto; clear: none; text-align: center;"><ins data-ad-format="auto" class="adsbygoogle adsbygoogle-noablate" data-ad-client="ca-pub-5867915342436534" data-adsbygoogle-status="done" style="display: block; margin: 10px auto; background-color: transparent; height: 0px;" data-ad-status="unfilled"><div id="aswift_4_host" style="border: none; height: 0px; width: 1150px; margin: 0px; padding: 0px; position: relative; visibility: visible; background-color: transparent; display: inline-block; overflow: hidden; opacity: 0;"><iframe id="aswift_4" name="aswift_4" style="left: 0px; position: absolute; top: 0px; border: 0px; width: 1150px; height: 0px; min-height: auto; max-height: none; min-width: auto; max-width: none;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="1150" height="0" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allow="attribution-reporting; run-ad-auction" src="https://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-5867915342436534&amp;output=html&amp;h=280&amp;adk=1296727556&amp;adf=3774456555&amp;pi=t.aa~a.4260891379~rp.1&amp;w=1150&amp;fwrn=4&amp;fwrnh=100&amp;lmt=1760700880&amp;rafmt=1&amp;to=qs&amp;pwprc=3343622871&amp;format=1150x280&amp;url=https%3A%2F%2Fgithubprofile.com%2Ftemplates%2FCandida18&amp;fwr=0&amp;pra=3&amp;rpe=1&amp;resp_fmts=3&amp;wgl=1&amp;fa=40&amp;uach=WyJXaW5kb3dzIiwiMTkuMC4wIiwieDg2IiwiIiwiMTQxLjAuNzM5MC43OCIsbnVsbCwwLG51bGwsIjY0IixbWyJHb29nbGUgQ2hyb21lIiwiMTQxLjAuNzM5MC43OCJdLFsiTm90P0FfQnJhbmQiLCI4LjAuMC4wIl0sWyJDaHJvbWl1bSIsIjE0MS4wLjczOTAuNzgiXV0sMF0.&amp;abgtt=6&amp;dt=1760700880861&amp;bpp=1&amp;bdt=303&amp;idt=0&amp;shv=r20251016&amp;mjsv=m202510140101&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;eo_id_str=ID%3D446276ad63d02b35%3AT%3D1760700649%3ART%3D1760700649%3AS%3DAA-AfjZJOn-KDicjK4j_psoYk_ug&amp;prev_fmts=0x0%2C1200x280%2C1150x280%2C1150x280&amp;nras=5&amp;correlator=4208908798115&amp;frm=20&amp;pv=1&amp;u_tz=120&amp;u_his=7&amp;u_h=768&amp;u_w=1366&amp;u_ah=720&amp;u_aw=1366&amp;u_cd=24&amp;u_sd=1&amp;dmc=8&amp;adx=101&amp;ady=1811&amp;biw=1351&amp;bih=599&amp;scr_x=0&amp;scr_y=0&amp;eid=95373555%2C31095218%2C31095301%2C42531705%2C95372730%2C95373013%2C95374047&amp;oid=2&amp;pvsid=3979576904766038&amp;tmod=786308909&amp;uas=0&amp;nvt=1&amp;ref=https%3A%2F%2Fgithubprofile.com%2Ftemplates%2F3&amp;fc=1920&amp;brdim=0%2C0%2C0%2C0%2C1366%2C0%2C1366%2C720%2C1366%2C599&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=128&amp;bc=31&amp;bz=1&amp;td=1&amp;tdf=2&amp;nt=1&amp;ifi=5&amp;uci=a!5&amp;btvi=3&amp;fsb=1&amp;dtd=7" data-google-container-id="a!5" tabindex="0" title="Advertisement" aria-label="Advertisement" data-google-query-id="CPLp0PSRq5ADFaFvFQgdCZ4DWw" data-load-complete="true"></iframe></div></ins></div><p align="left">
-   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&amp;logo=adobeillustrator&amp;logoColor=white">
-  </a> 
-   
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&amp;logo=adobeindesign&amp;logoColor=white"> 
-  </a> 
-     
-  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&amp;logo=adobelightroom&amp;logoColor=white">
-  </a>
-    
-  <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 
-   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/Adobe Premiere Pro-%2300f.svg?style=flat&amp;logo=adobepremierepro&amp;logoColor=white">
-  </a>
-     
-  <a href="#">
-  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&amp;logo=Canva&amp;logoColor=white">
-  </a>
- </p>
+
 <h3 id="-software--tools">👉 Software &amp; Tools</h3>
 <p>
    
