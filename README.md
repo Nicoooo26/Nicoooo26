@@ -92,8 +92,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br>
   <p align="center">
-    <a href="https://github.com/nicoooo26/github-readme-stats"><img alt="Nico's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nicoooo26&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
-<br>
+    
   &nbsp;
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoooo26&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="nicoooo26" height="192px">
   <br>
