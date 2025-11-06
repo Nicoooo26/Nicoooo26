@@ -108,3 +108,8 @@
 	<a href="https://www.linkedin.com/in/nicolas-gua%C3%B1una-45aa00332/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
 	<a href="https://instagram.com/niicokngzz._"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"></a>
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
