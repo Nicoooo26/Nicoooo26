@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Full+Stack+Developer;Full+Stack+Developer&amp;center=true&amp;width=500&amp;height=50"></a>
 </p>
 <hr>
-<h4 align="center">Me llamo Nicolás Guañuna, tengo 20 años y soy un apasionado de la programación. He estudiado DAM (Desarrollo de Aplicaciones Multiplataforma) y DAW (Desarrollo de Aplicaciones Web), lo que me ha permitido aprender tanto desarrollo móvil como web. Me encanta todo lo relacionado con la programación y siempre estoy buscando nuevos retos.</h4>
+<h4 align="center">Me llamo Nicolás Guañuna, tengo 20 años y soy un apasionado de la programación. Tengo el Grado Superior de DAM (Desarrollo de Aplicaciones Multiplataforma) y DAW (Desarrollo de Aplicaciones Web), lo que me ha permitido aprender tanto desarrollo móvil como web. Me encanta todo lo relacionado con la programación y siempre estoy buscando nuevos retos.</h4>
 <h2 id="️-my-skills">🛠️ My Skills</h2>
 <h3 id="-programming-languages">👉 Programming languages</h3>
 <p align="left"> 
