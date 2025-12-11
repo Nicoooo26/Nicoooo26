@@ -17,7 +17,7 @@
 
   <a href="https://es.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?logo=database&logoColor=white"></a>
    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black"></a>
    
   <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&amp;logoColor=white"></a>
    
