@@ -80,10 +80,6 @@
     <a href="https://about.gitlab.com/" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white"></a>
    
     <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"></a>
-   
-    <a href="https://trello.com/" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230026C2.svg?style=flat&logo=trello&logoColor=white"></a>
-   
-    <a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"></a>
 </p>
 <br>
 <h2 id="-github-stats-expand-to-view">📊 Github Stats (Expand to View)</h2>
