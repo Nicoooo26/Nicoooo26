@@ -35,6 +35,12 @@
   <a href="https://getbootstrap.com"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white"></a>
     
   <a href="https://tailwindcss.com"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css;logoColor=white"></a>
+    
+  <a href="https://sass-lang.com" ><img alt="Sass" src="https://img.shields.io/badge/Sass-%23CC6699.svg?logo=sass;logoColor=white"></a>
+    
+  <a href="https://reactjs.org"><img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react;logoColor=%2361DAFB"></a>
+    
+  <a href="https://vuejs.org"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vue.js;logoColor=%234FC08D"></a>
 </p>
 <h3 id="-databases--cloud-hosting">👉 Databases &amp; Cloud Hosting</h3>
 <p align="left">
