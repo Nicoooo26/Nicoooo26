@@ -56,6 +56,8 @@
     <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
    
     <a href="https://www.oracle.com/database/"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-%23000000.svg?logo=oracle&logoColor=F80000"></a>
+   
+	<a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-%23007CBA.svg?logo=mariadb&logoColor=white"></a>
  </p>
 
 <h3 id="-software--tools">👉 Software &amp; Tools</h3>
