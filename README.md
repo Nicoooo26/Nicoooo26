@@ -42,17 +42,11 @@
 <h3 id="-frontend-development">👉 Frontend Development</h3>
 <p align="left"> 
     
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&amp;logoColor=white">
-  </a>   
+  <a href="https://www.w3.org/html/"><img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&amp;logoColor=white"></a>   
    
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&amp;logo=css3&amp;logoColor=white">
-  </a> 
+  <a href="https://www.w3schools.com/css/"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat&amp;logo=css3&amp;logoColor=white"></a> 
     
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white">
-  </a>
+  <a href="https://getbootstrap.com"> <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&amp;logo=bootstrap&amp;logoColor=white"></a>
 </p>
 <h3 id="-databases--cloud-hosting">👉 Databases &amp; Cloud Hosting</h3>
 <p align="left">
