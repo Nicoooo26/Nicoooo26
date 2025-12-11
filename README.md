@@ -11,33 +11,19 @@
 <h3 id="-programming-languages">👉 Programming languages</h3>
 <p align="left"> 
     
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
-  </a>
+  <a href="https://www.typescriptlang.org/"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white"></a>
    
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
-  </a>
+  <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"></a>
 
-  <a href="https://es.wikipedia.org/wiki/SQL" target="_blank">
-    <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?logo=database&logoColor=white">
-  </a>
+  <a href="https://es.wikipedia.org/wiki/SQL"><img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?logo=database&logoColor=white"></a>
    
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black">
-   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black"></a>
    
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&amp;logoColor=white">
-  </a>
+  <a href="https://www.java.com"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&amp;logoColor=white"></a>
    
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white">
-  </a>
+   <a href="https://www.python.org"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white"></a>
    
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&amp;logoColor=white">
-  </a>
+  <a href="https://www.php.net/"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&amp;logoColor=white"></a>
 </p>
 <h3 id="-frontend-development">👉 Frontend Development</h3>
 <p align="left"> 
