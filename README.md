@@ -63,20 +63,27 @@
 <h3 id="-software--tools">👉 Software &amp; Tools</h3>
 <p>
    
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white"></a>
-   
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&amp;logoColor=white"></a>
-   
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white"></a>
    
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black"></a>
    
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white"></a>
    
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white"></a>
+	<a href="https://www.jetbrains.com/idea/"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=flat&logo=jetbrains&logoColor=white"></a>
+   	
+    <a href="https://www.eclipse.org/" target="_blank"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-%23000000.svg?style=flat&logo=eclipse&logoColor=2C2255"></a>
+      
+    <a href="https://developer.android.com/studio"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=flat&logo=android&logoColor=white"></a>
    
+    <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"></a>
+      
+    <a href="https://about.gitlab.com/" target="_blank"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white"></a>
+   
+    <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white"></a>
+   
+    <a href="https://trello.com/" target="_blank"><img alt="Trello" src="https://img.shields.io/badge/Trello-%230026C2.svg?style=flat&logo=trello&logoColor=white"></a>
+   
+    <a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"></a>
 </p>
 <br>
 <h2 id="-github-stats-expand-to-view">📊 Github Stats (Expand to View)</h2>
