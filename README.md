@@ -47,13 +47,15 @@
    
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&amp;llogo=mysql&amp;logoColor=white"></a>
    
-    <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white"></a>
-   
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white"></a>
    
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&amp;logoColor=white"></a>  
-   
     <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white"></a>
+   
+    <a href="https://aws.amazon.com/"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazon-aws&logoColor=white"></a>
+   
+    <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
+   
+    <a href="https://www.oracle.com/database/"><img alt="Oracle SQL" src="https://img.shields.io/badge/Oracle%20SQL-%23000000.svg?logo=oracle&logoColor=F80000"></a>
  </p>
 
 <h3 id="-software--tools">👉 Software &amp; Tools</h3>
