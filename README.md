@@ -15,9 +15,13 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white">
 </a>
    
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&amp;logoColor=white">
-  </a> 
+<a href="https://kotlinlang.org/" target="_blank">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white">
+</a>
+
+<a href="https://es.wikipedia.org/wiki/SQL" target="_blank">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?logo=database&logoColor=white">
+</a>
    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black">
